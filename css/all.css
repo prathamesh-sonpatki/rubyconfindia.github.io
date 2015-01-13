@@ -7289,3 +7289,7 @@ footer {
       display: inline-block;
       position: relative;
       padding: 10px; }
+  /* line 113, /Users/gautamrege/work/rubyconfindia.github.io/source/css/all.css.scss */
+  .gold-sponsor .fa {
+    padding-top: 5px;
+    font-size: 46px !important; }
