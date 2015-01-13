@@ -7276,3 +7276,16 @@ footer {
   border-radius: 20px;
   color: #ffffff;
   line-height: 150%; }
+
+/* line 102, /Users/gautamrege/work/rubyconfindia.github.io/source/css/all.css.scss */
+.gold-sponsor {
+  min-height: 350px; }
+  /* line 104, /Users/gautamrege/work/rubyconfindia.github.io/source/css/all.css.scss */
+  .gold-sponsor .logo {
+    display: inline-block;
+    min-height: 150px; }
+    /* line 107, /Users/gautamrege/work/rubyconfindia.github.io/source/css/all.css.scss */
+    .gold-sponsor .logo img {
+      display: inline-block;
+      position: relative;
+      padding: 10px; }
